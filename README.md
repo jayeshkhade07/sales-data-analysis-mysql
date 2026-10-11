@@ -49,6 +49,10 @@ Jayesh Khade
 ## Project Screenshots
 
 ### 1. Sales Data
+![Sales Data](Screenshot%202026-10-11%20123914.png)
 ### 2. Total Sales Analysis
+![Sales Data](Screenshot%202026-10-11%20124019.png)
 ### 3. City-wise Sales Analysis
+![Sales Data](Screenshot%202026-10-11%20124110.png)
 ### 4. Category-wise Sales Analysis
+![Sales Data](Screenshot%202026-10-11%20124328.png)
