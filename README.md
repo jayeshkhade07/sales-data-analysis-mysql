@@ -45,3 +45,10 @@ The dataset contains the following columns:
 
 ## Author
 Jayesh Khade
+
+## Project Screenshots
+
+### 1. Sales Data
+### 2. Total Sales Analysis
+### 3. City-wise Sales Analysis
+### 4. Category-wise Sales Analysis
